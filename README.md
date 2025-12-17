@@ -205,6 +205,7 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 ## Author
 
 **Vijay Raghav Varada** - Fracktal Works
+**Yashas B Padmashali** - Fracktal Works
 
 ---
 
