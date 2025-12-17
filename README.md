@@ -202,10 +202,10 @@ Contributions are welcome! Please:
 
 This project is licensed under the **GNU General Public License v3.0** - see the included mainsail.cfg header for details.
 
-## Author
+## Authors
 
-**Vijay Raghav Varada** - Fracktal Works
-**Yashas B Padmashali** - Fracktal Works
+- **Vijay Raghav Varada** - Fracktal Works
+- **Yashas B Padmashali** - Fracktal Works
 
 ---
 
